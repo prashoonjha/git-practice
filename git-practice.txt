@@ -1,1 +1,3 @@
 welcome to the project
+
+adding new things here for exercise 14 
