@@ -1,4 +1,4 @@
-Produce
+new product in the list
 
 Apples
 
@@ -47,6 +47,8 @@ Dish soap
 Trash bags
 
 Laundry detergent
+
+first line changed (remote)
 
 Jeans
 Shirts
